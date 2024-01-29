@@ -9,10 +9,9 @@ CRUD REST API with NestJS, Docker, Swagger, and Prisma
  
   
  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://docs.nestjs.com/assets/logo-small.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt=" logo"  />
-  <img width="12" />
+ 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbtxsVux8A61U3IAdmfYK3XMy88MgBkeAn4LUGaiZbYQ&s" height="40" alt="swagger logo"  />
   <img width="12" />
 
